@@ -1,0 +1,168 @@
+{
+    "disease_pairs": [
+      {
+        "patterns": ["precautions for fungal infection", "fungal infection precautions"],
+        "responses": ["To prevent Fungal Infection, consider these precautions:\n1. Keep your skin clean and dry.\n2. Avoid sharing personal items like towels and combs.\n3. Wear clean, dry clothes.\n4. Use antifungal powders or creams as recommended by your healthcare provider."]
+      },
+      {
+        "patterns": ["precautions for allergy", "allergy precautions"],
+        "responses": ["To manage Allergies, consider these precautions:\n1. Identify and avoid allergens.\n2. Keep your living space clean and free of dust and mold.\n3. Use air purifiers.\n4. Take prescribed antihistamines as directed by your doctor."]
+      },
+      {
+        "patterns": ["precautions for GERD", "GERD precautions"],
+        "responses": ["To manage GERD, consider these precautions:\n1. Avoid large meals and overeating.\n2. Elevate the head of your bed.\n3. Avoid lying down after meals.\n4. Identify and avoid trigger foods.\n5. Take medications as prescribed by your healthcare provider."]
+      },
+      {
+        "patterns": ["precautions for chronic cholestasis", "cholestasis precautions"],
+        "responses": ["For Chronic Cholestasis, consider these precautions:\n1. Maintain a healthy diet low in fats.\n2. Take prescribed medications as directed.\n3. Stay hydrated.\n4. Monitor liver function regularly with your healthcare provider."]
+      },
+      {
+        "patterns": ["precautions for drug reaction", "drug reaction precautions"],
+        "responses": ["To avoid Drug Reactions, consider these precautions:\n1. Inform your healthcare provider of all medications you are taking.\n2. Be aware of potential side effects of medications.\n3. Report any unusual reactions or symptoms immediately."]
+      },
+      {
+        "patterns": ["precautions for peptic ulcer disease", "peptic ulcer disease precautions"],
+        "responses": ["For Peptic Ulcer Disease, consider these precautions:\n1. Avoid smoking and limit alcohol consumption.\n2. Manage stress through relaxation techniques.\n3. Take prescribed medications, including antibiotics if needed."]
+      },
+      {
+        "patterns": ["precautions for AIDS", "AIDS precautions"],
+        "responses": ["To manage AIDS, consider these precautions:\n1. Practice safe sex and use condoms.\n2. Avoid sharing needles or syringes.\n3. Get regular medical check-ups and follow prescribed antiretroviral therapy (ART)."]
+      },
+      {
+        "patterns": ["precautions for diabetes", "diabetes precautions"],
+        "responses": ["To manage Diabetes, follow these precautions:\n1. Maintain a healthy and balanced diet.\n2. Engage in regular physical activity.\n3. Monitor blood sugar levels regularly.\n4. Take prescribed medications as directed.\n5. Follow your healthcare provider's advice for regular check-ups."]
+      },
+      {
+        "patterns": ["precautions for gastroenteritis", "gastroenteritis precautions"],
+        "responses": ["For Gastroenteritis, consider these precautions:\n1. Stay hydrated by drinking plenty of fluids.\n2. Avoid dairy products and caffeine.\n3. Follow the BRAT diet (Bananas, Rice, Applesauce, Toast).\n4. Practice good hand hygiene to prevent the spread of infection."]
+      },
+      {
+        "patterns": ["precautions for bronchial asthma", "asthma precautions"],
+        "responses": ["To manage Asthma, consider these precautions:\n1. Identify and avoid triggers like allergens and irritants.\n2. Take prescribed medications as directed.\n3. Use inhalers properly and consistently.\n4. Monitor peak flow regularly.\n5. Have a written asthma action plan."]
+      },
+      {
+        "patterns": ["precautions for hypertension", "hypertension precautions"],
+        "responses": ["For Hypertension, consider these precautions:\n1. Maintain a healthy diet low in salt.\n2. Engage in regular physical activity.\n3. Monitor blood pressure regularly.\n4. Take prescribed medications as directed.\n5. Reduce stress through relaxation techniques."]
+      },
+      {
+        "patterns": ["precautions for migraine", "migraine precautions"],
+        "responses": ["To manage Migraine, consider these precautions:\n1. Identify and avoid triggers like certain foods and stress.\n2. Maintain a regular sleep schedule.\n3. Stay hydrated.\n4. Take prescribed medications as directed."]
+      },
+      {
+        "patterns": ["precautions for cervical spondylosis", "spondylosis precautions"],
+        "responses": ["For Cervical Spondylosis, consider these precautions:\n1. Maintain good posture.\n2. Use ergonomic furniture and tools.\n3. Engage in neck exercises recommended by your healthcare provider.\n4. Apply heat or cold therapy as advised."]
+      },
+      {
+        "patterns": ["precautions for paralysis (brain hemorrhage)", "paralysis precautions"],
+        "responses": ["For Paralysis (Brain Hemorrhage), consider these precautions:\n1. Follow rehabilitation exercises recommended by your healthcare provider.\n2. Modify your home environment for safety.\n3. Take medications as prescribed.\n4. Attend regular medical check-ups."]
+      },
+      {
+        "patterns": ["precautions for jaundice", "jaundice precautions"],
+        "responses": ["For Jaundice, consider these precautions:\n1. Get plenty of rest.\n2. Stay hydrated.\n3. Follow a balanced and easily digestible diet.\n4. Avoid alcohol and certain medications.\n5. Seek medical attention if symptoms worsen."]
+      },
+      {
+        "patterns": ["precautions for malaria", "malaria precautions"],
+        "responses": ["To prevent Malaria, consider these precautions:\n1. Use insect repellent.\n2. Sleep under bed nets treated with insecticide.\n3. Take prescribed antimalarial medications if traveling to affected areas.\n4. Wear long sleeves and pants to minimize exposure to mosquitoes."]
+      },
+      {
+        "patterns": ["precautions for chicken pox", "chicken pox precautions"],
+        "responses": ["For Chickenpox, consider these precautions:\n1. Isolate the infected person to prevent the spread of the virus.\n2. Keep the affected person hydrated.\n3. Use calamine lotion to soothe itching.\n4. Take prescribed antiviral medications as directed."]
+      },
+      {
+        "patterns": ["precautions for dengue", "dengue precautions"],
+        "responses": ["To prevent Dengue, consider these precautions:\n1. Use mosquito repellent.\n2. Eliminate standing water where mosquitoes breed.\n3. Wear long sleeves and pants to avoid mosquito bites.\n4. Seek medical attention if you develop symptoms of Dengue."]
+      },
+      {
+        "patterns": ["precautions for typhoid", "typhoid precautions"],
+        "responses": ["For Typhoid, consider these precautions:\n1. Practice good hygiene, including handwashing.\n2. Consume safe and clean food and water.\n3. Get vaccinated against Typhoid if recommended.\n4. Seek medical attention if you experience symptoms."]
+      },
+      {
+        "patterns": ["precautions for hepatitis A", "hepatitis A precautions"],
+        "responses": ["To prevent Hepatitis A, consider these precautions:\n1. Practice good hand hygiene.\n2. Consume safe and clean food and water.\n3. Get vaccinated against Hepatitis A if recommended.\n4. Avoid close contact with infected individuals."]
+      },
+      {
+        "patterns": ["precautions for hepatitis B", "hepatitis B precautions"],
+        "responses": ["For Hepatitis B, consider these precautions:\n1. Get vaccinated against Hepatitis B.\n2. Practice safe sex and use condoms.\n3. Avoid sharing needles or personal items.\n4. Get regular medical check-ups and follow prescribed medications."]
+      },
+      {
+        "patterns": ["precautions for hepatitis C", "hepatitis C precautions"],
+        "responses": ["To manage Hepatitis C, consider these precautions:\n1. Avoid sharing needles or personal items.\n2. Practice safe sex and use condoms.\n3. Get regular medical check-ups and follow prescribed antiviral medications."]
+      },
+      {
+        "patterns": ["precautions for hepatitis D", "hepatitis D precautions"],
+        "responses": ["For Hepatitis D, consider these precautions:\n1. Get vaccinated against Hepatitis B to prevent Hepatitis D.\n2. Avoid sharing needles or personal items.\n3. Practice safe sex and use condoms."]
+      },
+      {
+        "patterns": ["precautions for hepatitis E", "hepatitis E precautions"],
+        "responses": ["To prevent Hepatitis E, consider these precautions:\n1. Consume safe and clean food and water.\n2. Practice good hand hygiene.\n3. Avoid consuming undercooked or raw shellfish."]
+      },
+      {
+        "patterns": ["precautions for alcoholic hepatitis", "alcoholic hepatitis precautions"],
+        "responses": ["For Alcoholic Hepatitis, consider these precautions:\n1. Limit or avoid alcohol consumption.\n2. Seek medical help for alcohol dependence.\n3. Follow a balanced and healthy diet.\n4. Take prescribed medications as directed."]
+      },
+      {
+        "patterns": ["precautions for tuberculosis", "tuberculosis precautions"],
+        "responses": ["To prevent Tuberculosis, consider these precautions:\n1. Maintain good ventilation in living spaces.\n2. Practice good respiratory hygiene.\n3. Take prescribed medications for latent TB infection if recommended.\n4. Follow medical advice for active TB."]
+      },
+      {
+        "patterns": ["precautions for common cold", "common cold precautions"],
+        "responses": ["For the Common Cold, consider these precautions:\n1. Wash hands frequently.\n2. Avoid close contact with sick individuals.\n3. Practice good respiratory hygiene.\n4. Stay well-hydrated.\n5. Get plenty of rest."]
+      },
+      {
+        "patterns": ["precautions for pneumonia", "pneumonia precautions"],
+        "responses": ["To prevent Pneumonia, consider these precautions:\n1. Get vaccinated against pneumonia.\n2. Practice good hand hygiene.\n3. Avoid smoking and limit exposure to smoke.\n4. Stay physically active and maintain a healthy lifestyle."]
+      },
+      {
+        "patterns": ["precautions for dimorphic hemorrhoids(piles)", "hemorrhoids precautions"],
+        "responses": ["For Dimorphic Hemorrhoids (Piles), consider these precautions:\n1. Maintain regular bowel habits.\n2. Eat a high-fiber diet.\n3. Stay physically active.\n4. Avoid straining during bowel movements.\n5. Stay well-hydrated."]
+      },
+      {
+        "patterns": ["precautions for heart attack", "heart attack precautions"],
+        "responses": ["To prevent Heart Attacks, consider these precautions:\n1. Maintain a healthy diet low in saturated fats and cholesterol.\n2. Engage in regular physical activity.\n3. Manage stress through relaxation techniques.\n4. Avoid smoking and limit alcohol consumption."]
+      },
+      {
+        "patterns": ["precautions for varicose veins", "varicose veins precautions"],
+        "responses": ["For Varicose Veins, consider these precautions:\n1. Elevate your legs regularly.\n2. Avoid prolonged periods of sitting or standing.\n3. Exercise regularly to improve circulation.\n4. Wear compression stockings as recommended by your healthcare provider."]
+      },
+      {
+        "patterns": ["precautions for hypothyroidism", "hypothyroidism precautions"],
+        "responses": ["For Hypothyroidism, consider these precautions:\n1. Take thyroid medication as prescribed.\n2. Follow a balanced and nutritious diet.\n3. Engage in regular physical activity.\n4. Get regular thyroid function tests."]
+      },
+      {
+        "patterns": ["precautions for hyperthyroidism", "hyperthyroidism precautions"],
+        "responses": ["To manage Hyperthyroidism, consider these precautions:\n1. Take prescribed antithyroid medications as directed.\n2. Follow a balanced and nutritious diet.\n3. Avoid excessive iodine intake.\n4. Get regular thyroid function tests."]
+      },
+      {
+        "patterns": ["precautions for hypoglycemia", "hypoglycemia precautions"],
+        "responses": ["For Hypoglycemia, consider these precautions:\n1. Eat regular, balanced meals.\n2. Monitor blood sugar levels regularly.\n3. Carry a source of fast-acting glucose for emergencies.\n4. Inform friends and family about your condition."]
+      },
+      {
+        "patterns": ["precautions for osteoarthritis", "osteoarthritis precautions"],
+        "responses": ["To manage Osteoarthritis, consider these precautions:\n1. Maintain a healthy weight.\n2. Exercise regularly to strengthen muscles around joints.\n3. Use joint protection techniques.\n4. Take prescribed medications as directed.\n5. Follow a balanced diet."]
+      },
+      {
+        "patterns": ["precautions for arthritis", "arthritis precautions"],
+        "responses": ["To manage Arthritis, consider these precautions:\n1. Engage in regular low-impact exercise.\n2. Maintain a healthy weight.\n3. Use joint protection techniques.\n4. Take prescribed medications as directed.\n5. Consider physical therapy."]
+      },
+      {
+        "patterns": ["precautions for vertigo", "paroxysmal positional vertigo precautions"],
+        "responses": ["To manage Paroxysmal Positional Vertigo, consider these precautions:\n1. Avoid sudden head movements.\n2. Use caution when changing positions, especially when lying down or getting up.\n3. Perform vestibular exercises as recommended by your healthcare provider."]
+      },
+      {
+        "patterns": ["precautions for acne", "acne precautions"],
+        "responses": ["To manage Acne, consider these precautions:\n1. Keep your face clean by washing it twice a day.\n2. Avoid picking or squeezing acne lesions.\n3. Use non-comedogenic skincare products.\n4. Manage stress levels.\n5. Consult a dermatologist for personalized treatment."]
+      },
+      {
+        "patterns": ["precautions for urinary tract infection", "urinary tract infection precautions"],
+        "responses": ["To prevent Urinary Tract Infections, consider these precautions:\n1. Stay hydrated by drinking plenty of water.\n2. Urinate frequently, especially after sexual activity.\n3. Wipe from front to back after using the toilet.\n4. Avoid using irritating feminine products.\n5. Practice good personal hygiene."]
+      },
+      {
+        "patterns": ["precautions for psoriasis", "psoriasis precautions"],
+        "responses": ["To manage Psoriasis, consider these precautions:\n1. Keep your skin moisturized.\n2. Avoid triggers like stress and certain medications.\n3. Use prescribed topical treatments.\n4. Get regular sunlight exposure.\n5. Follow your dermatologist's recommendations."]
+      },
+      {
+        "patterns": ["precautions for impetigo", "impetigo precautions"],
+        "responses": ["To prevent and manage Impetigo, consider these precautions:\n1. Keep the affected area clean and dry.\n2. Avoid scratching or picking at sores.\n3. Use prescribed antibiotic ointments or oral antibiotics.\n4. Practice good personal hygiene.\n5. Wash hands regularly."]
+      }
+    ]
+}
